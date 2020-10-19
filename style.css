@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: var(--bg);
+    color: var(--color);
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: black;
+        --color: white;
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --bg: white;
+        --color: black;
+    }
+}

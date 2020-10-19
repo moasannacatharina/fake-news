@@ -27,9 +27,10 @@ $articles =
         Quiet, quiet. I'm gonna read your thoughts. Let's see now, you've come from a great distance? Are you gonna order something, kid? My name's Lorraine, Lorraine Baines. My name's Lorraine, Lorraine Baines. No, why, what's a matter?
         
         Yeah well, I saw it on a rerun. Calvin, why do you keep calling me Calvin? Holy shit. I had a horrible nightmare, dreamed I went back in time, it was terrible. whoa, this is it, this is the part coming up, Doc.",
+            'summary' => "No wait, Doc, the bruise, the bruise on your head, I know how that happened, you told me the whole story. you were standing on your toilet and you were hanging a clock.",
             'id' => 2,
             'likes' => '10',
-            'img' => 'https://picsum.photos/110/50/?random',
+            'img' => './img/vikas-shankarathota-Wc_U_BW5jZE-unsplash.jpg',
         ],
 
         [
@@ -42,9 +43,10 @@ $articles =
             When you do it your way you can go anywhere you choose. Don't fiddle with it all day. Now we don't want him to get lonely, so we'll give him a little friend. Absolutely no pressure. You are just a whisper floating across a mountain. You need to have a very firm paint to do this. We'll throw some old gray clouds in here just sneaking around and having fun.
             
             You have to make these big decisions. The shadows are just like the highlights, but we're going in the opposite direction. There comes a nice little fluffer. A thin paint will stick to a thick paint. We'll put a happy little bush here.",
+            'summary' => "The very fact that you're aware of suffering is enough reason to be overjoyed that you're alive and can experience it. A big strong tree needs big strong roots. Maybe there's a happy little waterfall happening over here.",
             'id' => 2,
             'likes' => '15',
-            'img' => 'https://picsum.photos/110/50/?random',
+            'img' => './img/austin-neill-hgO1wFPXl3I-unsplash.jpg',
 
         ],
 
@@ -56,9 +58,10 @@ $articles =
             If you're working forty hours a week, you shouldn't be living in poverty. America does not presume to know what is best for everyone, just as we would not presume to pick the outcome of a peaceful election.
             
             Thank you, and God bless America.",
+            'summary' => "It's not enough, but it's helping. On the other end, we've heard my former pastor, Reverend Jeremiah Wright, use incendiary language to express views that have the potential not only to widen the racial divide.",
             'id' => 1,
             'likes' => '12',
-            'img' => 'https://picsum.photos/110/50/?random',
+            'img' => './img/bermix-studio-yWYiNNK_tOI-unsplash.jpg',
         ],
 
         [
@@ -69,20 +72,22 @@ $articles =
             I write the best placeholder text, and I'm the biggest developer on the web by far... While that's mock-ups and this is politics, are they really so different? Be careful, or I will spill the beans on your placeholder text.
             
             Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen.",
+            'summary' => "We are going to make placeholder text great again. Greater than ever before. Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being.",
             'id' => 1,
             'likes' => '2',
-            'img' => 'https://picsum.photos/110/50/?random',
+            'img' => 'https://external-preview.redd.it/cdBX8iPcLH-sSlIrPH1IrYf8FbBBljiLb0GvWL4BAQE.jpg?auto=webp&s=63c17855d5c3c4cdc3c10eb66785be48f1ee8e80',
         ],
 
         [
-            'title' => '43 genius costume ideas for Halloween 2020',
+            'title' => '43 good-ish costume ideas for Halloween 2020',
             'published_date' => '2020-09-30 18:00',
             'content' => "Yogic harmful electromagnetic fields surrender kefir reprogramming your DNA, sound healing stevia. Optimal frequency macrobiotic closing circle, mayan calendar silent disco quantum mala beads. Soulmate sarong taurus reverse osmosis, perineum blessed organic patchouli. Talking stick moon cycle homeopathy awareness monogamish fractal nature of om, cosmic asana.
 
             Meditation hexayurt radiant trust the process, tincture consciousness hemp seed dakini stevia. Fluorescent lights emotional release crystal healing agave raw cacao seasonal wicca ponytail chi energy, mercury retrograde ganja. One taste biodiesel spoken word, tai chi as we honor om bentonite clay. Workshop saturn return spinal awareness Dr. Bronner's, karmic oneness embodied Bay Area craniosacral therapy. Apple cider vinegar the power of intention colloidal silver marinese non-attachment, change agent reproductive system essential oils heart-based honoring your truth. Lavender asana natural homebirth birth name harmony loving kindness, visualization practices gut flora. Cleansing yerba matte prayerformance himalayan sea salt, light energy infinite blessings new paradigm papyrus font cosmic. Namaste.",
+            'summary' => "We are going to make placeholder text great again. Greater than ever before. Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being",
             'id' => 3,
             'likes' => '30',
-            'img' => 'https://picsum.photos/110/50/?random',
+            'img' => './img/darren-halstead-B_vXFdzvw3g-unsplash.jpg',
         ],
 
         [
@@ -95,9 +100,10 @@ $articles =
             Squid literally yuccie narwhal copper mug af. Street art everyday carry trust fund biodiesel enamel pin normcore. Fixie XOXO kinfolk distillery irony next level, hoodie gastropub woke vice selfies messenger bag sartorial authentic. Pok pok before they sold out irony blue bottle glossier freegan. Master cleanse subway tile church-key salvia shabby chic yuccie.
             
             Slow-carb fashion axe chicharrones single-origin coffee prism deep v semiotics pour-over street art butcher echo park next level. Truffaut tofu quinoa portland, food truck schlitz hella tousled green juice XOXO polaroid jianbing chia umami. Helvetica wolf trust fund, hammock polaroid typewriter VHS. Brooklyn 90's sartorial, chicharrones organic vaporware yuccie quinoa succulents DIY meggings. Hella chillwave forage, iceland distillery edison bulb copper mug jean shorts shoreditch hell of. Hoodie aesthetic hammock, unicorn tilde sriracha typewriter mumblecore whatever food truck man braid copper mug hot chicken. Master cleanse aesthetic organic, fashion axe cardigan ramps crucifix vinyl meditation semiotics mumblecore air plant art party succulents.",
+            'summary' => "We are going to make placeholder text great again. Greater than ever before. Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being",
             'id' => 3,
             'likes' => '129',
-            'img' => 'https://picsum.photos/110/50/?random',
+            'img' => './img/steve-knutson-lQ2BzDNmnHE-unsplash.jpg',
         ],
 
         [
@@ -108,22 +114,24 @@ $articles =
             Prefect’s bathroom Trelawney veela squashy armchairs, SPEW: Gamp’s Elemental Law of Transfiguration. Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified. Beuxbatons flying half-blood revision schedule, Great Hall aurors Minerva McGonagall Polyjuice Potion. Restricted section the Burrow Wronski Feint gnomes, quidditch robes detention, chocolate frogs. Errol parchment knickerbocker glory Avada Kedavra Shell Cottage beaded bag portrait vulture-hat. Twin cores, Aragog crimson gargoyles, Room of Requirement counter-clockwise Shrieking Shack. Snivellus second floor bathrooms vanishing cabinet Wizard Chess, are you a witch or not?
             
             Alohamora wand elf parchment, Wingardium Leviosa hippogriff, house dementors betrayal. Holly, Snape centaur portkey ghost Hermione spell bezoar Scabbers. Peruvian-Night-Powder werewolf, Dobby pear-tickle half-moon-glasses, Knight-Bus. Padfoot snargaluff seeker: Hagrid broomstick mischief managed. Snitch Fluffy rock-cake, 9 ¾ dress robes I must not tell lies. Mudbloods yew pumpkin juice phials Ravenclaw’s Diadem 10 galleons Thieves Downfall. Ministry-of-Magic mimubulus mimbletonia Pigwidgeon knut phoenix feather other minister Azkaban. Hedwig Daily Prophet treacle tart full-moon Ollivanders You-Know-Who cursed. Fawkes maze raw-steak Voldemort Goblin Wars snitch Forbidden forest grindylows wool socks.",
+            'summary' => "We are going to make placeholder text great again. Greater than ever before. Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being",
             'id' => 4,
             'likes' => '140',
-            'img' => 'https://picsum.photos/110/50/?random',
+            'img' => 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Princess_Diana_-_Royal_Visit_to_Halifax%2C_Nova_Scotia_-_June_1983_%2837448879456%29.jpg',
         ],
 
         [
-            'title' => 'A nuclear explosion would be bad',
+            'title' => 'A nuclear explosion would probably be bad',
             'published_date' => '2017-03-07 11:50',
             'content' => "When other websites give you text, they’re not sending the best. They’re not sending you, they’re sending words that have lots of problems and they’re bringing those problems with us. They’re bringing mistakes. They’re bringing misspellings. They’re typists… And some, I assume, are good words. You're telling the enemy exactly what you're going to do. No wonder you've been fighting Lorem Ipsum your entire adult life. If Trump Ipsum weren’t my own words, perhaps I’d be dating it. All of the words in Lorem Ipsum have flirted with me - consciously or unconsciously. That's to be expected.
 
             I don't think anybody knows it was Russia that wrote Lorem Ipsum, but I don't know, maybe it was. It could be Russia, but it could also be China. It could also be lots of other people. It also could be some wordsmith sitting on their bed that weights 400 pounds. Ok?
             
             Lorem Ipsum better hope that there are no \"tapes\" of our conversations before he starts leaking to the press! This placeholder text is gonna be HUGE.",
+            'summary' => "We are going to make placeholder text great again. Greater than ever before. Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being",
             'id' => 4,
             'likes' => '14',
-            'img' => 'https://picsum.photos/110/50/?random',
+            'img' => './img/science-in-hd-MAoGpZ42NZM-unsplash.jpg',
         ],
 
         [
@@ -136,9 +144,10 @@ $articles =
             Trees live in your fan brush, but you have to scare them out. By now you should be quite happy about what's happening here. You have to make these big decisions. Let's make some happy little clouds in our world. Just use the old one inch brush.
             
             Don't fight it, use what happens. I'm a water fanatic. I love water. Use what you see, don't plan it. Volunteering your time; it pays you and your whole community fantastic dividends. Let's put some happy trees and bushes back in here. Just take out whatever you don't want. It'll change your entire perspective.",
+            'summary' => "We are going to make placeholder text great again. Greater than ever before. Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being",
             'id' => 5,
             'likes' => '10',
-            'img' => 'https://picsum.photos/110/50/?random',
+            'img' => './img/fred-moon-ofBf15Ps_0k-unsplash.jpg',
         ],
 
         [
@@ -151,8 +160,9 @@ $articles =
             Dolor hammock fingerstache, mlkshk hell of franzen PBR&B cold-pressed deep v ut ut. Pabst beard echo park cold-pressed, ea id venmo tote bag raw denim messenger bag ramps try-hard. Fam cliche microdosing laborum tumblr tacos truffaut gochujang celiac la croix sed four dollar toast iPhone. Paleo elit typewriter unicorn. Knausgaard tote bag tofu esse enim labore, tilde brooklyn kogi neutra. Poke sed enamel pin cardigan DIY gochujang.
             
             Dummy text? More like dummy thicc text, amirite?",
+            'summary' => "We are going to make placeholder text great again. Greater than ever before. Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being",
             'id' => 5,
             'likes' => '200',
-            'img' => 'https://picsum.photos/110/50/?random',
+            'img' => './img/einar-storsul-hw2wB-Sqg0k-unsplash.jpg',
         ],
     ];

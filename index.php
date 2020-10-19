@@ -15,29 +15,36 @@ require __DIR__ . '/data.php';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title></title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="media.css">
 
 </head>
 
 <nav>
+    <h1>
+        Fake News
+    </h1>
 
 </nav>
 
 <main>
+    <div class="grid">
+        <?php foreach ($articles as $article) : ?>
+            <?php $title = $article['title'];
+            $content = $article['content'];
+            $published_date = $article['published_date'];
+            $img = $article['img'];
+            $summary = $article['summary']; ?>
 
-    <?php foreach ($articles as $article) : ?>
-        <?php $title = $article['title'];
-        $content = $article['content'];
-        $published_date = $article['published_date'];
-        $img = $article['img']; ?>
+            <article>
+                <img src="<?= $img; ?>">
+                <p><?= $published_date; ?></p>
+                <h3><?= ucwords("$title"); ?></h3>
+                <p><?= $summary; ?></p>
 
-        <article>
-            <h3><?= ucwords("$title"); ?></h3>
-            <img src="<?= $img; ?>">
-            <p><?= $content; ?></p>
-            <p><?= $published_date; ?></p>
-        </article>
+            </article>
 
-    <?php endforeach; ?>
+        <?php endforeach; ?>
+    </div>
 
 
 </main>

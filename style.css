@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    margin: 0;
 }
 
 
@@ -8,16 +9,35 @@ body {
     color: var(--color);
 }
 
-@media (prefers-color-scheme: dark) {
-    :root {
-        --bg: black;
-        --color: white;
-    }
+nav {
+    height: 3rem;
+    display: flex;
 }
 
-@media (prefers-color-scheme: light) {
-    :root {
-        --bg: white;
-        --color: black;
-    }
+h1 {
+    margin: 0.5rem;
 }
+
+div {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+div article {
+    width: 100%;
+    margin: 10px;
+}
+
+img {
+    width: 100%;
+}
+
+
+/* @media screen and (min-width: 1000px) {
+    .grid div {
+        width: calc(25% - 20px);
+    }
+} */
+
+

@@ -5,7 +5,7 @@
 
 
 body {
-    background-color: var(--bg);
+    background-color:  #EEEEEE;
     color: var(--color);
     font-family: 'IBM Plex Sans', Arial, sans-serif;
 }
@@ -13,6 +13,7 @@ body {
 main {
     display: flex;
     flex-direction: row;
+    margin-bottom: 1rem;
 }
 
 
@@ -20,10 +21,24 @@ nav {
     height: 100px;
     display: flex;
     align-items: center;
+    background-color: var(--bg);
     /* border-bottom: solid 10px rgb(51, 51, 61); */
 }
 
+aside {
+    display: none;
+}
 
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    width: 100%;
+    
+}
 
 
 

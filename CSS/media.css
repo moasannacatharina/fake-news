@@ -17,14 +17,16 @@
     main {
         display: flex;
         flex-direction: row;
-        justify-content: space-between;
+        /* justify-content: space-between; */
         width: 100%;
-        background-color: rgb(38,38,38,1);
+        /* background-color: rgb(38,38,38,1); */
+        background-color: #EEEEEE;
     }
 
     .grid {
         width: 80%;
-        background-color: rgb(38,38,38,1);
+        background-color: #EEEEEE;
+        /* background-color: rgb(38,38,38,1); */
         margin-left: 4rem;
     }
 
@@ -54,8 +56,16 @@
     }
 
     aside {
+        display: flex;
+        flex-direction: column;
         width: 25%;
         background-color: var(--bg);
-        height: 100vh;
-        margin: 1rem;
+        margin: 10px;
+        padding: 10px;
+    }
+
+    aside h2 {
+        margin-left: 2rem;
+    }
+    
 }

@@ -22,7 +22,7 @@ $articles =
 
                 Now, of course not, Biff, now, I wouldn't want that to happen. Yeah. Alright, c'mon, I think we're safe. Einstein, hey Einstein, where's the Doc, boy, huh? Doc Oh.
             
-                After I fell off my toilet, I drew this. Uh, yeah. Hey Marty, I'm not your answering service, but you're outside pouting about the car, Jennifer Parker called you twice. No, Marty, we've already agreed that having information about the future could be extremely dangerous. Even if your intentions are good, they could backfire drastically. Whatever you've got to tell me I'll find out through the natural course of time. Well, they're bigger than me.
+                After I fell off my toilet, I drew this. Uh, yeah.<br> <br>Hey Marty, I'm not your answering service, but you're outside pouting about the car, Jennifer Parker called you twice. No, Marty, we've already agreed that having information about the future could be extremely dangerous. Even if your intentions are good, they could backfire drastically. Whatever you've got to tell me I'll find out through the natural course of time. Well, they're bigger than me.
             
                 Quiet, quiet. I'm gonna read your thoughts. Let's see now, you've come from a great distance? Are you gonna order something, kid? My name's Lorraine, Lorraine Baines. My name's Lorraine, Lorraine Baines. No, why, what's a matter?
             
@@ -31,18 +31,18 @@ $articles =
             'author_id' => 2,
             'id' => 1,
             'likes' => '10',
-            'img' => './img/vikas-shankarathota-Wc_U_BW5jZE-unsplash.jpg',
+            'img' => './img/martin-magnemyr-Xh1JNKQzg2Q-unsplash.jpg',
             'author' => 'Olle Trens',
         ],
 
 
         [
-            'title' => '43 costume ideas for Halloween 2020 that make you say \'Meh\'',
+            'title' => '12 costume ideas for Halloween 2020 that make you say \'Meh\'',
             'published_date' => '2020-09-30 18:00',
             'content' => "Yogic harmful electromagnetic fields surrender kefir reprogramming your DNA, sound healing stevia. Optimal frequency macrobiotic closing circle, mayan calendar silent disco quantum mala beads. Soulmate sarong taurus reverse osmosis, perineum blessed organic patchouli. Talking stick moon cycle homeopathy awareness monogamish fractal nature of om, cosmic asana.
 
                 Meditation hexayurt radiant trust the process, tincture consciousness hemp seed dakini stevia. Fluorescent lights emotional release crystal healing agave raw cacao seasonal wicca ponytail chi energy, mercury retrograde ganja. One taste biodiesel spoken word, tai chi as we honor om bentonite clay. Workshop saturn return spinal awareness Dr. Bronner's, karmic oneness embodied Bay Area craniosacral therapy. Apple cider vinegar the power of intention colloidal silver marinese non-attachment, change agent reproductive system essential oils heart-based honoring your truth. Lavender asana natural homebirth birth name harmony loving kindness, visualization practices gut flora. Cleansing yerba matte prayerformance himalayan sea salt, light energy infinite blessings new paradigm papyrus font cosmic. Namaste.",
-            'summary' => "We are going to make placeholder text great again. Greater than ever before. Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being",
+            'summary' => "Since the world is falling apart, our priority has not been to come up with costume ideas for this Halloween season. However, here are some that might work out fine. We don't care.",
             'author_id' => 3,
             'id' => 2,
             'likes' => '30',

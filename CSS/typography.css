@@ -1,10 +1,11 @@
 
 h1 {
     margin: 10px;
-    font-size: 40px;
-    font-family: 'Josefin Sans', Helvetica, sans-serif;
+    font-size: 50px;
+    font-family: 'Bungee', Helvetica, sans-serif;
     font-weight: bold;
-    color: #D39040;
+    /* color: #D39040; */
+    color: #DA185C;
 }
 
 h2 {
@@ -13,12 +14,12 @@ h2 {
     margin-bottom: 0.7rem;
 }
 
-a {
+.grid a {
     text-decoration: none;
     color: var(--color);
 }
 
-a h2:hover {
+.grid a h2:hover {
     text-decoration: underline;
 }
 
@@ -28,4 +29,19 @@ a h2:hover {
 
 .content { 
     margin-top: 0.5rem;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+.aside-links {
+    text-decoration: none;
+    color: var(--color);
+    margin: 10px;
+    font-weight: bold;
+}
+
+.aside-links:hover {
+    text-decoration: underline;
 }

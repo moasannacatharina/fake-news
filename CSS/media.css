@@ -16,37 +16,46 @@
 
     main {
         display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
+        flex-direction: row;
+        justify-content: space-between;
         width: 100%;
+        background-color: rgb(38,38,38,1);
     }
 
-    div {
+    .grid {
         width: 80%;
+        background-color: rgb(38,38,38,1);
+        margin-left: 4rem;
     }
 
-    div article {
+    .grid article {
         width: calc(100% - 20px);
+        background-color: white;
     }
+
+    h1 {
+        font-size: 50px;
+    }
+
+    nav {
+        height: 100px;
+    }
+
 }
 
 @media screen and (min-width: 1000px) {
-    
-    main {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        width: 100%;
-    }
 
-    div {
+    .grid {
         width: 50%;
     }
 
-    div article {
+    .grid article {
         width: calc(100% - 20px);
     }
 
+    aside {
+        width: 25%;
+        background-color: var(--bg);
+        height: 100vh;
+        margin: 1rem;
 }

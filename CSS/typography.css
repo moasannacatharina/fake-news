@@ -1,0 +1,31 @@
+
+h1 {
+    margin: 10px;
+    font-size: 40px;
+    font-family: 'Josefin Sans', Helvetica, sans-serif;
+    font-weight: bold;
+    color: #D39040;
+}
+
+h2 {
+    font-family: 'Josefin Sans', Helvetica, sans-serif;
+    margin-top: 1rem;
+    margin-bottom: 0.7rem;
+}
+
+a {
+    text-decoration: none;
+    color: var(--color);
+}
+
+a h2:hover {
+    text-decoration: underline;
+}
+
+.published-date {
+    font-size: 14px;
+}
+
+.content { 
+    margin-top: 0.5rem;
+}

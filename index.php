@@ -1,6 +1,9 @@
 <?php
 
+require __DIR__ . '/header.php';
+
 require __DIR__ . '/data.php';
+
 
 
 // This is the file where you can keep your HTML markup. We should always try to
@@ -8,98 +11,31 @@ require __DIR__ . '/data.php';
 // of the files containing HTML or even better; in another PHP file altogether.
 
 ?>
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fake News</title>
+<div class="grid">
 
-    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22256%22 height=%22256%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2220%22 fill=%22%23f3c1b8%22></rect><path fill=%22%235553ee%22 d=%22M60.88 55.56L49.52 55.56L49.52 75.88L38.32 75.88L38.32 24.12L61.68 24.12L61.68 33.80L49.52 33.80L49.52 46.20L60.88 46.20L60.88 55.56Z%22></path></svg>" />
-    <link rel="stylesheet" href="./CSS/global.css">
-    <link rel="stylesheet" href="./CSS/grid.css">
-    <link rel="stylesheet" href="./CSS/media.css">
-    <link rel="stylesheet" href="./CSS/typography.css">
+    <?php foreach ($articles as $article) : ?>
+        <?php
+        $title = $article['title'];
+        $likes = $article['likes'];
+        $published_date = $article['published_date'];
+        $img = $article['img'];
+        $summary = $article['summary'];
+        $author = $article['author']; ?>
 
+        <article>
+            <a href="/post.php?id=<?= $article['id'] ?>">
+                <img src="<?= $img; ?>" class="front-page-img">
+                <p class="published-date"><?= "$published_date $author"; ?></p>
+                <h2><?= ucwords("$title"); ?></h2>
+                <p class="summary"><?= $summary; ?></p>
+            </a>
+            <div class="like-button">
+                <a href="#"><?= $likes; ?></a>
+            </div>
 
-    <link href="https://fonts.googleapis.com/css2?family=Bungee&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400&display=swap" rel="stylesheet">
+        </article>
+    <?php endforeach; ?>
+</div>
 
-</head>
-
-
-<nav>
-    <a href="/index.php">
-        <img src="./img/fake-ews.svg">
-    </a>
-
-</nav>
-
-<main>
-
-    <div class="grid">
-
-        <?php foreach ($articles as $article) : ?>
-            <?php
-            $title = $article['title'];
-            $likes = $article['likes'];
-            $published_date = $article['published_date'];
-            $img = $article['img'];
-            $summary = $article['summary'];
-            $author = $article['author']; ?>
-
-            <article>
-                <a href="/post.php?id=<?= $article['id'] ?>">
-                    <img src="<?= $img; ?>" class="front-page-img">
-                    <p class="published-date"><?= "$published_date $author"; ?></p>
-                    <h2><?= ucwords("$title"); ?></h2>
-                    <p class="summary"><?= $summary; ?></p>
-                </a>
-                <div class="like-button">
-                    <a href="#"><?= $likes; ?></a>
-                </div>
-
-            </article>
-        <?php endforeach; ?>
-    </div>
-
-    <aside>
-
-        <h2>Articles</h2>
-        <ul>
-
-            <?php foreach ($articles as $article) : ?>
-
-                <?php $title = $article['title']; ?>
-
-                <a href="/post.php?id=<?= $article['id'] ?>" class="aside-links">
-                    <li><?= ucwords("$title"); ?></li>
-                </a>
-
-            <?php endforeach; ?>
-        </ul>
-
-    </aside>
-
-
-</main>
-
-<footer>
-    <h2>
-        FAKE NEWS Media Group
-    </h2>
-
-    <p>
-        © 2020 fake news media group
-    </p>
-
-</footer>
-
-<body>
-</body>
-
-</html>
+<?php require __DIR__ . '/footer.php'; ?>

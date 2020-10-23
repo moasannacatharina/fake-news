@@ -13,4 +13,4 @@ Start a localhost server from your command line.
     "php -S localhost:8000"
     ```
 <br>
-Launch the website with your localhost-server in your preferred browser. 
+Launch the website with your localhost server in your preferred browser. 

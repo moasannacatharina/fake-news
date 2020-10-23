@@ -29,15 +29,19 @@ article:hover {
 .like-button {
     display: flex;
     justify-content: flex-end;
+    padding-top: 1rem;
+    padding-right: 1rem;
 }
 
 .like-button a, .like-links-like {
-    border: 1px solid #D73A3A;
+    border: 2px solid #D73A3A;
     border-radius: 50%;
     padding-left: 0.3rem;
     padding-right: 0.3rem;
 
 }
+
+
 
 .like-links {
     display: flex;

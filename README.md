@@ -8,9 +8,7 @@ The project is written in PHP, HTML and CSS.
 Instructions:
 Clone the project with Git / Github Desktop.
 Start a localhost server from your command line.
-
     ```
     "php -S localhost:8000"
     ```
-    
 Launch the website with your localhost-server in your preferred browser. 

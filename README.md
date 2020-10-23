@@ -1,6 +1,6 @@
 # Fake News
 
-<iframe src="https://giphy.com/embed/l3q2PMwmOGtezj8s0" width="480" height="265" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/election2016-kellyanne-conway-chuck-todd-l3q2PMwmOGtezj8s0">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/l3q2PMwmOGtezj8s0/giphy.gif">
 
 
 In this project I've created a fake news site which contains 10 different articles by 5 different authors. 

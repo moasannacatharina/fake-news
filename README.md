@@ -1,6 +1,6 @@
 # Fake News
 
-<img src="https://media.giphy.com/media/l3q2PMwmOGtezj8s0/giphy.gif">
+<img src="https://media.giphy.com/media/l3q2PMwmOGtezj8s0/giphy.gif" width="100%">
 
 
 In this project I've created a fake news site which contains 10 different articles by 5 different authors. 

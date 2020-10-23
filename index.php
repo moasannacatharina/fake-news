@@ -34,9 +34,7 @@ require __DIR__ . '/data.php';
 
 <nav>
     <a href="/index.php">
-        <h1>
-            FAKE NEWS
-        </h1>
+        <img src="./img/fake-ews.svg">
     </a>
 
 </nav>
@@ -62,7 +60,7 @@ require __DIR__ . '/data.php';
                     <p class="summary"><?= $summary; ?></p>
                 </a>
                 <div class="like-button">
-                    <p><?= $likes; ?></p>
+                    <a href="#"><?= $likes; ?></a>
                 </div>
 
             </article>
@@ -94,6 +92,10 @@ require __DIR__ . '/data.php';
     <h2>
         FAKE NEWS Media Group
     </h2>
+
+    <p>
+        © 2020 fake news media group
+    </p>
 
 </footer>
 

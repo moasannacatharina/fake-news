@@ -32,9 +32,7 @@ require __DIR__ . '/functions.php';
 <body>
     <nav>
         <a href="/index.php">
-            <h1>
-                FAKE NEWS
-            </h1>
+            <img src="./img/fake-ews.svg">
         </a>
 
     </nav>
@@ -100,7 +98,9 @@ require __DIR__ . '/functions.php';
         <h2>
             FAKE NEWS Media Group
         </h2>
-
+        <p>
+            © 2020 fake news media group
+        </p>
     </footer>
 
 </body>

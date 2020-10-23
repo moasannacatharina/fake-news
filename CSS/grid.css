@@ -27,7 +27,7 @@ article:hover {
     justify-content: flex-end;
 }
 
-.like-button p, .like-links-like {
+.like-button a, .like-links-like {
     border: 1px solid #D73A3A;
     border-radius: 50%;
     padding-left: 0.3rem;

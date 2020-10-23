@@ -48,7 +48,7 @@ require __DIR__ . '/data.php';
         <?php foreach ($articles as $article) : ?>
             <?php
             $title = $article['title'];
-            $content = $article['content'];
+            $likes = $article['likes'];
             $published_date = $article['published_date'];
             $img = $article['img'];
             $summary = $article['summary'];
@@ -61,8 +61,11 @@ require __DIR__ . '/data.php';
                     <h2><?= ucwords("$title"); ?></h2>
                     <p class="summary"><?= $summary; ?></p>
                 </a>
-            </article>
+                <div class="like-button">
+                    <p><?= $likes; ?></p>
+                </div>
 
+            </article>
         <?php endforeach; ?>
     </div>
 

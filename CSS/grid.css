@@ -21,3 +21,40 @@ img {
 article:hover {
     box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.25);
 }
+
+.like-button {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.like-button p, .like-links-like {
+    border: 1px solid #D73A3A;
+    border-radius: 50%;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+
+}
+
+.like-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+.like-links a {
+    margin: 10px;
+}
+
+
+.back-button {
+    display: flex;
+    justify-content: center;
+}
+
+.back-button p {
+    border: 2px solid #43485B;
+    border-radius: 3px;
+    padding: 1rem;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.25);
+}

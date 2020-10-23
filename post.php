@@ -26,6 +26,7 @@ require __DIR__ . '/functions.php';
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
@@ -47,7 +48,7 @@ require __DIR__ . '/functions.php';
                 $content = $post['content'];
                 $published_date = $post['published_date'];
                 $img = $post['img'];
-                $summary = $post['summary'];
+                $likes = $post['likes'];
                 $author = $post['author'];
                 ?>
 
@@ -55,11 +56,21 @@ require __DIR__ . '/functions.php';
                 <img src="<?= $post['img']; ?>">
                 <p class="published-date"><?= "$published_date $author"; ?></p>
                 <p class="content"><?= $content; ?></p>
+                <div class="like-links">
+
+                    <a href="#" class="like-links-like"><?= $likes; ?></a>
+                    <a href="#" class="fa fa-facebook"></a>
+                    <a href="#" class="fa fa-twitter"></a>
+                    <a href="#" class="fa fa-instagram"></a>
+
+                </div>
             </article>
-            <article>
-                <button>
-                    Back to main page
-                </button>
+            <article class="back-button">
+                <a href="/index.php">
+                    <p>
+                        Back to main page
+                    </p>
+                </a>
             </article>
         </div>
 

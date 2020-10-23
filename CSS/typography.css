@@ -5,7 +5,7 @@ h1 {
     font-family: 'Bungee', Helvetica, sans-serif;
     font-weight: bold;
     /* color: #D39040; */
-    color: #DA185C;
+    color: #5553EE;
 }
 
 h2 {
@@ -45,3 +45,19 @@ nav a {
 .aside-links:hover {
     text-decoration: underline;
 }
+
+.back-button p, .like-button, .like-links {
+    font-family: 'Josefin Sans', Helvetica, sans-serif;
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    margin: 5px 2px;
+    color: white;
+
+}
+

@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/l3q2PMwmOGtezj8s0/giphy.gif" width="100%">
 
 
-## Instructions:
+## Instructions
 Clone or fork the project
 Start a localhost server from your command line.
 <br>

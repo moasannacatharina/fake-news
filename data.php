@@ -64,7 +64,7 @@ $articles =
                 When you do it your way you can go anywhere you choose. Don't fiddle with it all day. Now we don't want him to get lonely, so we'll give him a little friend. Absolutely no pressure. You are just a whisper floating across a mountain. You need to have a very firm paint to do this. We'll throw some old gray clouds in here just sneaking around and having fun.
             
                 You have to make these big decisions. The shadows are just like the highlights, but we're going in the opposite direction. There comes a nice little fluffer. A thin paint will stick to a thick paint. We'll put a happy little bush here.",
-            'summary' => "The very fact that you're aware of suffering is enough reason to be overjoyed that you're alive and can experience it. A big strong tree needs big strong roots. Maybe there's a happy little waterfall happening over here.",
+            'summary' => "This famous pop star shocked everyone during his/her performance by pulling up a cute animal and proceeding to eat it raw. Don't believe us? Read the rest of the article.",
             'author_id' => 2,
             'id' => 3,
             'likes' => '❤️ 15',
@@ -81,7 +81,7 @@ $articles =
                 If you're working forty hours a week, you shouldn't be living in poverty. America does not presume to know what is best for everyone, just as we would not presume to pick the outcome of a peaceful election.
                 
                 Thank you, and God bless America.",
-            'summary' => "It's not enough, but it's helping. On the other end, we've heard my former pastor, Reverend Jeremiah Wright, use incendiary language to express views that have the potential not only to widen the racial divide.",
+            'summary' => "This baby is so massive you won't believe your f**king eyes. I mean, I've never seen such a huge infant, it's insane. I can't even begin to describe to you this enormous, gigantic, tremendous, immense, great giant of a baby. See for yourself.",
             'author_id' => 1,
             'id' => 4,
             'likes' => '❤️ 12',
@@ -103,7 +103,7 @@ $articles =
                 I write the best placeholder text, and I'm the biggest developer on the web by far... While that's mock-ups and this is politics, are they really so different? Be careful, or I will spill the beans on your placeholder text.
                 
                 Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen.",
-            'summary' => "We are going to make placeholder text great again. Greater than ever before. Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being.",
+            'summary' => "The picture has nothing to do with this actual breed of rats. I know that the rat pictured isn't actually walking upright by itself, I can see the machine. THAT'S NOT THE POINT.",
             'author_id' => 1,
             'id' => 5,
             'likes' => '❤️ 2',
@@ -123,7 +123,7 @@ $articles =
                 Squid literally yuccie narwhal copper mug af. Street art everyday carry trust fund biodiesel enamel pin normcore. Fixie XOXO kinfolk distillery irony next level, hoodie gastropub woke vice selfies messenger bag sartorial authentic. Pok pok before they sold out irony blue bottle glossier freegan. Master cleanse subway tile church-key salvia shabby chic yuccie.
             
             Slow-carb fashion axe chicharrones single-origin coffee prism deep v semiotics pour-over street art butcher echo park next level. Truffaut tofu quinoa portland, food truck schlitz hella tousled green juice XOXO polaroid jianbing chia umami. Helvetica wolf trust fund, hammock polaroid typewriter VHS. Brooklyn 90's sartorial, chicharrones organic vaporware yuccie quinoa succulents DIY meggings. Hella chillwave forage, iceland distillery edison bulb copper mug jean shorts shoreditch hell of. Hoodie aesthetic hammock, unicorn tilde sriracha typewriter mumblecore whatever food truck man braid copper mug hot chicken. Master cleanse aesthetic organic, fashion axe cardigan ramps crucifix vinyl meditation semiotics mumblecore air plant art party succulents.",
-            'summary' => "We are going to make placeholder text great again. Greater than ever before. Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being",
+            'summary' => "Since delivering this truly brave statement, the World Bank has been trending online, receiving praise from all over the world.",
             'author_id' => 3,
             'id' => 6,
             'likes' => '❤️ 129',
@@ -141,7 +141,7 @@ $articles =
                 Restricted section the Burrow Wronski Feint gnomes, quidditch robes detention, chocolate frogs. Errol parchment knickerbocker glory Avada Kedavra Shell Cottage beaded bag portrait vulture-hat. Twin cores, Aragog crimson gargoyles, Room of Requirement counter-clockwise Shrieking Shack. Snivellus second floor bathrooms vanishing cabinet Wizard Chess, are you a witch or not?
                 
                 Alohamora wand elf parchment, Wingardium Leviosa hippogriff, house dementors betrayal. Holly, Snape centaur portkey ghost Hermione spell bezoar Scabbers. Peruvian-Night-Powder werewolf, Dobby pear-tickle half-moon-glasses, Knight-Bus. Padfoot snargaluff seeker: Hagrid broomstick mischief managed. Snitch Fluffy rock-cake, 9 ¾ dress robes I must not tell lies. Mudbloods yew pumpkin juice phials Ravenclaw’s Diadem 10 galleons Thieves Downfall. Ministry-of-Magic mimubulus mimbletonia Pigwidgeon knut phoenix feather other minister Azkaban. Hedwig Daily Prophet treacle tart full-moon Ollivanders You-Know-Who cursed. Fawkes maze raw-steak Voldemort Goblin Wars snitch Forbidden forest grindylows wool socks.",
-            'summary' => "We are going to make placeholder text great again. Greater than ever before. Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being",
+            'summary' => "New reports surrounding the death of lady Diana have been released and reveal that she was, indeed, alive only a few hours before her death. ",
             'author_id' => 4,
             'id' => 7,
             'likes' => '❤️ 140',

@@ -7,7 +7,7 @@ require __DIR__ . '/functions.php';
 $articleId = $_GET['id'];
 ?>
 
-<div class="grid">
+<div class="grid postgrid">
     <article>
         <?php $post = getPostById($articles, (int)$articleId);
 
@@ -19,7 +19,7 @@ $articleId = $_GET['id'];
         $author = $post['author'];
         ?>
 
-        <h2><?= $title; ?></h2>
+        <h2><?= ucwords("$title"); ?></h2>
         <img src="<?= $post['img']; ?>">
         <p class="published-date"><?= "$published_date $author"; ?></p>
         <p class="content"><?= $content; ?></p>
@@ -31,13 +31,6 @@ $articleId = $_GET['id'];
             <a href="#" class="fa fa-instagram"></a>
 
         </div>
-    </article>
-    <article class="back-button">
-        <a href="/index.php">
-            <p>
-                Back to main page
-            </p>
-        </a>
     </article>
 </div>
 

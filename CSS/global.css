@@ -21,14 +21,12 @@ header {
     height: 150px;
     display: flex;
     align-items: center;
-    border-bottom: solid 5px #D73A3A;
     padding: 1rem;
 }
 
 header img {
     margin: 10px;
     width: 200px;
-    /* margin-left: 1rem; */
 }
 
 aside {

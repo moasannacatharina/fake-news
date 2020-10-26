@@ -20,7 +20,7 @@
 </main>
 
 <footer>
-    <h2>
+    <h2 class="footer-title">
         FAKE NEWS Media Group
     </h2>
 

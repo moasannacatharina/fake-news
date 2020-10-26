@@ -159,7 +159,7 @@ $articles =
                 I don't think anybody knows it was Russia that wrote Lorem Ipsum, but I don't know, maybe it was. It could be Russia, but it could also be China. It could also be lots of other people. It also could be some wordsmith sitting on their bed that weights 400 pounds. Ok?
                 
                 Lorem Ipsum better hope that there are no \"tapes\" of our conversations before he starts leaking to the press! This placeholder text is gonna be HUGE.",
-            'summary' => "We are going to make placeholder text great again. Greater than ever before. Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being",
+            'summary' => "I'm not saying it would definitely be bad, I'm just saying it probably would be. My boss don't want me to write this article, he says it makes us seem like we're taking a stand. But see, I fixed it!",
             'author_id' => 4,
             'id' => 8,
             'likes' => '❤️ 14',
@@ -179,7 +179,7 @@ $articles =
                 Trees live in your fan brush, but you have to scare them out. By now you should be quite happy about what's happening here. You have to make these big decisions. Let's make some happy little clouds in our world. Just use the old one inch brush.
                 
                 Don't fight it, use what happens. I'm a water fanatic. I love water. Use what you see, don't plan it. Volunteering your time; it pays you and your whole community fantastic dividends. Let's put some happy trees and bushes back in here. Just take out whatever you don't want. It'll change your entire perspective.",
-            'summary' => "We are going to make placeholder text great again. Greater than ever before. Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being",
+            'summary' => "A man sentenced to life in prison for committing a murder in 1975 says the lead detective on the case ruined his reputation by arresting him. \"No one likes me anymore\", he says.",
             'author_id' => 5,
             'id' => 9,
             'likes' => '❤️ 10',

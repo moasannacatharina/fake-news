@@ -5,6 +5,7 @@
 
 ## Instructions:
 Clone or fork the project. 
+<br>
 Start a localhost server from your command line.
 <br>
     ```

@@ -31,7 +31,7 @@ require __DIR__ . '/data.php';
                 <p class="summary"><?= $summary; ?></p>
             </a>
             <div class="like-button">
-                <a href="#"><?= $likes; ?></a>
+                <a href="#" class="likes"><?= $likes; ?></a>
             </div>
 
         </article>

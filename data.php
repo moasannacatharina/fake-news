@@ -27,7 +27,7 @@ $articles =
                 Quiet, quiet. I'm gonna read your thoughts. Let's see now, you've come from a great distance? Are you gonna order something, kid? My name's Lorraine, Lorraine Baines. My name's Lorraine, Lorraine Baines. No, why, what's a matter?
             
                 Yeah well, I saw it on a rerun. Calvin, why do you keep calling me Calvin? Holy shit. I had a horrible nightmare, dreamed I went back in time, it was terrible. whoa, this is it, this is the part coming up, Doc.",
-            'summary' => "No wait, Doc, the bruise, the bruise on your head, I know how that happened, you told me the whole story. you were standing on your toilet and you were hanging a clock.",
+            'summary' => "",
             'author_id' => 2,
             'id' => 1,
             'likes' => '❤️ 10',
@@ -76,11 +76,15 @@ $articles =
         [
             'title' => 'Horrified Nurses discover 40-pound baby after accidentally leaving it in incubator over weekend',
             'published_date' => '2020-08-02 14:20',
-            'content' => "It's not enough, but it's helping. On the other end, we've heard my former pastor, Reverend Jeremiah Wright, use incendiary language to express views that have the potential not only to widen the racial divide, but views that denigrate both the greatness and the goodness of our nation; that rightly offend white and black alike.
-
-                If you're working forty hours a week, you shouldn't be living in poverty. America does not presume to know what is best for everyone, just as we would not presume to pick the outcome of a peaceful election.
-                
-                Thank you, and God bless America.",
+            'content' => "I’m giving you cloth talk, cloth. Special cloth alert, cut from a special cloth. You do know, you do know that they don’t want you to have lunch. I’m keeping it real with you, so what you going do is have lunch. Hammock talk come soon. The first of the month is coming, we have to get money, we have no choice. It cost money to eat and they don’t want you to eat. Bless up. They will try to close the door on you, just open it.
+            <br><br>
+            The weather is amazing, walk with me through the pathway of more success. Take this journey with me, Lion! The key to success is to keep your head above the water, never give up. You smart, you loyal, you a genius. They will try to close the door on you, just open it. Surround yourself with angels. They key is to have every key, the key to open every door. Cloth talk. Celebrate success right, the only way, apple. The weather is amazing, walk with me through the pathway of more success. Take this journey with me, Lion! Eliptical talk.
+            
+            Congratulations, you played yourself. To succeed you must believe. When you believe, you will succeed. We don’t see them, we will never see them. Mogul talk. The first of the month is coming, we have to get money, we have no choice. It cost money to eat and they don’t want you to eat. Lion! Let me be clear, you have to make it through the jungle to make it to paradise, that’s the key, Lion! Celebrate success right, the only way, apple.
+            <br><br>
+            The key is to drink coconut, fresh coconut, trust me. Surround yourself with angels, positive energy, beautiful people, beautiful souls, clean heart, angel. In life there will be road blocks but we will over come it. We don’t see them, we will never see them. Stay focused. They will try to close the door on you, just open it. Learning is cool, but knowing is better, and I know the key to success. Learning is cool, but knowing is better, and I know the key to success. Find peace, life is like a water fall, you’ve gotta flow. Fan luv.
+            
+            Bless up. Egg whites, turkey sausage, wheat toast, water. Of course they don’t want us to eat our breakfast, so we are going to enjoy our breakfast. Surround yourself with angels. It’s on you how you want to live your life. Everyone has a choice. I pick my choice, squeaky clean. How’s business? Boomin. How’s business? Boomin. It’s important to use cocoa butter. It’s the key to more success, why not live smooth? Why live rough?",
             'summary' => "This baby is so massive you won't believe your f**king eyes. I mean, I've never seen such a huge infant, it's insane. I can't even begin to describe to you this enormous, gigantic, tremendous, immense, great giant of a baby. See for yourself.",
             'author_id' => 1,
             'id' => 4,
@@ -199,7 +203,11 @@ $articles =
                 Dolor hammock fingerstache, mlkshk hell of franzen PBR&B cold-pressed deep v ut ut. Pabst beard echo park cold-pressed, ea id venmo tote bag raw denim messenger bag ramps try-hard. Fam cliche microdosing laborum tumblr tacos truffaut gochujang celiac la croix sed four dollar toast iPhone. Paleo elit typewriter unicorn. Knausgaard tote bag tofu esse enim labore, tilde brooklyn kogi neutra. Poke sed enamel pin cardigan DIY gochujang.
                 
                 Dummy text? More like dummy thicc text, amirite?",
-            'summary' => "We are going to make placeholder text great again. Greater than ever before. Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being",
+            'summary' => "I am faster than 80% of all snakes. Question: You know what's better than a triceratops? Only every other dinosaur that has ever existed.
+
+            I like the people that I work with, generally. With four exceptions. Once I'm officially Regional Manager, my first order of business will be to demote Jim Halpert. So I will need a new number two. My ideal choice? Jack Bauer. But he is unavailable. Fictional. And overqualified.
+            
+            ",
             'author_id' => 5,
             'id' => 10,
             'likes' => '❤️ 200',

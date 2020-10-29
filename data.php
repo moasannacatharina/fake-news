@@ -27,7 +27,11 @@ $articles =
                 Quiet, quiet. I'm gonna read your thoughts. Let's see now, you've come from a great distance? Are you gonna order something, kid? My name's Lorraine, Lorraine Baines. My name's Lorraine, Lorraine Baines. No, why, what's a matter?
             
                 Yeah well, I saw it on a rerun. Calvin, why do you keep calling me Calvin? Holy shit. I had a horrible nightmare, dreamed I went back in time, it was terrible. whoa, this is it, this is the part coming up, Doc.",
-            'summary' => "",
+            'summary' => "I am faster than 80% of all snakes. Question: You know what's better than a triceratops? Only every other dinosaur that has ever existed.
+            
+            I like the people that I work with, generally. With four exceptions. Once I'm officially Regional Manager, my first order of business will be to demote Jim Halpert. So I will need a new number two. My ideal choice? Jack Bauer. But he is unavailable. Fictional. And overqualified.
+            
+            ",
             'author_id' => 2,
             'id' => 1,
             'likes' => '❤️ 10',

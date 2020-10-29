@@ -14,13 +14,13 @@ $articleId = $_GET['id'];
         $title = $post['title'];
         $content = $post['content'];
         $published_date = $post['published_date'];
-        $img = $post['img'];
         $likes = $post['likes'];
         $author = $post['author'];
+        $alt = $post['alt'];
         ?>
 
         <h2><?= ucwords("$title"); ?></h2>
-        <img src="<?= $post['img']; ?>">
+        <img src="<?= $post['img']; ?>" alt="<?= $alt; ?>">
         <p class="published-date"><?= "$published_date $author"; ?></p>
         <p class="content"><?= $content; ?></p>
         <div class="like-links">

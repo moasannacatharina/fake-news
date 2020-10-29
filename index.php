@@ -21,11 +21,12 @@ require __DIR__ . '/data.php';
         $published_date = $article['published_date'];
         $img = $article['img'];
         $summary = $article['summary'];
-        $author = $article['author']; ?>
+        $author = $article['author'];
+        $alt = $article['alt']; ?>
 
         <article>
             <a href="/post.php?id=<?= $article['id'] ?>">
-                <img src="<?= $img; ?>" class="front-page-img">
+                <img src="<?= $img; ?>" class="front-page-img" alt="<?= $alt; ?>">
                 <p class="published-date"><?= "$published_date $author"; ?></p>
                 <h2><?= ucwords("$title"); ?></h2>
                 <p class="summary"><?= $summary; ?></p>

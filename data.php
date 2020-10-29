@@ -36,6 +36,7 @@ $articles =
             'id' => 1,
             'likes' => '❤️ 10',
             'img' => './img/martin-magnemyr-Xh1JNKQzg2Q-unsplash.jpg',
+            'alt' => 'A cyclist on the streets of Gothenburg',
             'author' => 'Olle Trens',
         ],
 
@@ -53,6 +54,7 @@ $articles =
             'id' => 2,
             'likes' => '❤️ 30',
             'img' => './img/darren-halstead-B_vXFdzvw3g-unsplash.jpg',
+            'alt' => 'A man in a Trump-costume',
             'author' => 'Moa Berg',
         ],
 
@@ -73,6 +75,7 @@ $articles =
             'id' => 3,
             'likes' => '❤️ 15',
             'img' => './img/austin-neill-hgO1wFPXl3I-unsplash.jpg',
+            'alt' => 'A musician singing on stage',
             'author' => 'Olle Trens',
 
         ],
@@ -94,6 +97,7 @@ $articles =
             'id' => 4,
             'likes' => '❤️ 12',
             'img' => './img/bermix-studio-yWYiNNK_tOI-unsplash.jpg',
+            'alt' => 'A female nurse',
             'author' => 'Maja Namnsson',
         ],
 
@@ -116,6 +120,7 @@ $articles =
             'id' => 5,
             'likes' => '❤️ 2',
             'img' => 'https://external-preview.redd.it/cdBX8iPcLH-sSlIrPH1IrYf8FbBBljiLb0GvWL4BAQE.jpg?auto=webp&s=63c17855d5c3c4cdc3c10eb66785be48f1ee8e80',
+            'alt' => 'A white rat walking upright with help from a machine',
             'author' => 'Maja Namnsson',
         ],
 
@@ -136,6 +141,7 @@ $articles =
             'id' => 6,
             'likes' => '❤️ 129',
             'img' => './img/steve-knutson-lQ2BzDNmnHE-unsplash.jpg',
+            'alt' => 'A homeless man with a sign that reads \'hungry\'',
             'author' => 'Moa Berg',
         ],
 
@@ -154,6 +160,7 @@ $articles =
             'id' => 7,
             'likes' => '❤️ 140',
             'img' => 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Princess_Diana_-_Royal_Visit_to_Halifax%2C_Nova_Scotia_-_June_1983_%2837448879456%29.jpg',
+            'alt' => 'Lady Diana',
             'author' => 'Kalle Trollsson',
         ],
 
@@ -172,6 +179,7 @@ $articles =
             'id' => 8,
             'likes' => '❤️ 14',
             'img' => './img/science-in-hd-MAoGpZ42NZM-unsplash.jpg',
+            'alt' => 'Mushroom cloud from explosion',
             'author' => 'Kalle Trollsson',
         ],
 
@@ -192,6 +200,7 @@ $articles =
             'id' => 9,
             'likes' => '❤️ 10',
             'img' => './img/fred-moon-ofBf15Ps_0k-unsplash.jpg',
+            'alt' => 'A police officer',
             'author' => 'Bo Berntsson',
         ],
 
@@ -216,6 +225,7 @@ $articles =
             'id' => 10,
             'likes' => '❤️ 200',
             'img' => './img/einar-storsul-hw2wB-Sqg0k-unsplash.jpg',
+            'alt' => 'Graveyard',
             'author' => 'Bo Berntsson',
         ],
     ];

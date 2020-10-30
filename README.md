@@ -32,6 +32,7 @@ Launch the website with your localhost server in your preferred browser.
 ## Testers
 
 * Emil Pettersson
+* Dante Mogrim
 
 
 ## License

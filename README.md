@@ -8,7 +8,9 @@ A PHP-assignment in which I've created a fake news site containing 10 articles w
 
 
 ## Instructions
-Clone or fork the project. 
+Clone or fork the project.
+<br>
+Navigate to the root of this directory in your terminal of choice.
 <br>
 Start a localhost server from your command line.
 <br>

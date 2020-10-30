@@ -30,7 +30,8 @@ Launch the website with your localhost server in your preferred browser.
 * **Moa Berg** 
 
 ## Testers
--
+
+* Emil Pettersson
 
 
 ## License

@@ -25,10 +25,10 @@ $articleId = $_GET['id'];
         <p class="content"><?= $content; ?></p>
         <div class="like-links">
 
-            <a href="#" class="like-links-like"><?= $likes; ?></a>
-            <a href="#" class="fa fa-facebook"></a>
-            <a href="#" class="fa fa-twitter"></a>
-            <a href="#" class="fa fa-instagram"></a>
+            <a href="#" class="like-links-like" onclick="return false;"><?= $likes; ?></a>
+            <a href="#" class="fa fa-facebook" onclick="return false;"></a>
+            <a href="#" class="fa fa-twitter" onclick="return false;"></a>
+            <a href="#" class="fa fa-instagram" onclick="return false;"></a>
 
         </div>
     </article>

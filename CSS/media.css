@@ -20,6 +20,10 @@
         background-color: white;
     }
 
+    .footer-title {
+        font-size: 30px;
+    }
+
 }
 
 @media screen and (min-width: 1000px) {
@@ -52,4 +56,5 @@
         margin-left: 2rem;
     }
     
+
 }
